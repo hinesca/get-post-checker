@@ -1,0 +1,23 @@
+{
+  "name": "get-post-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "get-post-checker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hinesca/get-post-checker.git"
+  },
+  "author": "Casey Hines",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hinesca/get-post-checker/issues"
+  },
+  "homepage": "https://github.com/hinesca/get-post-checker#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0"
+  }
+}
